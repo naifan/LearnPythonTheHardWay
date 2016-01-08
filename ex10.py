@@ -16,4 +16,4 @@ print fat_cat
 
 while True:   # It will run forever, but why?
     for i in ["/", "-", "|", "\\", "|"]:
-        print "%s\r" % i
+        print "%s\r" % i,
