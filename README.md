@@ -11,3 +11,7 @@ MINtty(git bash)和CMD运行程序顺序不一样，因为buffering mode不同�
 
 ex15.py
 注意argv的使用
+
+ex20.py
+file.seek(0) #文件归位
+print , 避免在print后面多加"\n"
